@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Puzzled_ULHacks2021</string>
+
+
+    <string name="splashText">PUZZLED</string>
+    <string name="splashText2">A ULHacks2021 project submission. Github: ABCodez | sahilrashid | abdulwahab04</string>
+    <string name="menuTextView">Choose a Difficulty!</string>
+    <string name="menuBtn1">Easy</string>
+    <string name="menuBtn2">Medium</string>
+    <string name="menuBtn3">Hard</string>
+
+</resources>
